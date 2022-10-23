@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Niluk98
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning javascript ans react.js
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning DSA,SQL
 - 💞️ I’m looking to collaborate on development projects
 - 📫 How to reach me 
 - enter niladriparamanik@gmail.com
